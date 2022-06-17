@@ -1,0 +1,2 @@
+# Game
+O jogo é feito de maneira bem simples utilizando os conceitos de POO em Java. Há dois personagens "Warrior" e o "Monster", onde ambos possuem a mesma classe "mãe" que é a "Character" com um metódo abstrato "atacar", ambas classes herdam a classe Character e possuem métodos comuns como o atacar e outros específicos entre si. O controle do jogo é feito através de um Menu onde a porcentagem de possibilidade de uso dos métodos do Monstro é controlada pela biblioteca "Random" e o do "Warrior" é feito através de inputs de valores de 1 a 3, pelo player.
